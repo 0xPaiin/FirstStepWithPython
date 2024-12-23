@@ -1,4 +1,4 @@
-## Guess the Number Game
+## **Guess the Number Game**
 
 A simple Python game where the player guesses a number between 1 and 100 within a limited number of attempts.
 
@@ -11,6 +11,4 @@ A simple Python game where the player guesses a number between 1 and 100 within 
   - If the guessed number is **higher**, the program also lets the player know.
   - When the player guesses the correct number, the game ends with a victory message.
 - If the player fails to guess within 10 attempts, the game ends with a failure message.
-
-<span style="color:blue; font-size:18px;">This is a Python-based number guessing game!</span>
 
