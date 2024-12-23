@@ -1,6 +1,6 @@
 **My Python learning journey with assignments and beginner-friendly projects.**
 
-<span style="color:red"> Python Learning and Assignments Repository </span>
+# Python Learning and Assignments Repository 
   
   Welcome to **Python Learning and Assignments**! 🚀  
   This repository is a collection of my Python learning journey, including:
