@@ -1,4 +1,4 @@
-# Guess the Number Game
+#Guess the Number Game
 
 A simple Python game where the player guesses a number between 1 and 100 within a limited number of attempts.
 
